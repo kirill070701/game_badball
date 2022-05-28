@@ -1,0 +1,20 @@
+{
+    "objects":[
+        {"id": 1, "name":"start", "length":"10,0"},
+        {"id": 2, "name":"boiler", "length":"12,0"},
+        {"id": 3, "name":"bigBoiler", "length":"18,8"},
+        {"id": 4, "name":"islands", "length":"18,0"},
+        {"id": 5, "name":"sneke", "length":"10,1"},
+        {"id": 6, "name":"crack", "length":"10,0"},
+        {"id": 7, "name":"tower", "length":"15,0"},
+        {"id": 8, "name":"hola1", "length":"6,0"},
+        {"id": 9, "name":"hola2", "length":"6,0"},
+        {"id": 10, "name":"hola3", "length":"6,0"},
+        {"id": 11, "name":"bridges1", "length":"18,0"},
+        {"id": 12, "name":"bridges2", "length":"20,0"},
+        {"id": 13, "name":"bridges3", "length":"20,0"},
+        {"id": 14, "name":"bridges4", "length":"20,0"},
+        {"id": 15, "name":"tower2", "length":"15,0"},
+        {"id": 16, "name":"finish", "length":"10,0"}
+    ]
+}
